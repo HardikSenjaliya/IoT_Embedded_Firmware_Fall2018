@@ -1,0 +1,4 @@
+Objective: To develop Bluetooth Low Energy server which reads temperature from the on board temperature sensor Si7021 and send it to the Silicon Labs Blue Gecko smartphone app.
+
+- temperature sensor is configured with I2C protocol.
+
